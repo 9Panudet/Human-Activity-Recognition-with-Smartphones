@@ -505,7 +505,7 @@ Kept for transparency, since both were caught by re-measurement rather than revi
 
 ```
 .
-├── Human_Activity_Recognition_Optimized.ipynb
+├── Human_Activity_Recognition_Reworked.ipynb
 ├── README.md
 ├── train.csv
 └── test.csv
